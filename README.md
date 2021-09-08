@@ -1,11 +1,7 @@
 # README
 
-modified the page again
+Created Routes – For article  
 
-made the change to gem file
-and updated the postgrace to production server
-and made the sqlite server for test in local
+create a new controler to define the show action
 
-created a model and table/ database
-
-migrated the database
+create a new show page to show the article page
