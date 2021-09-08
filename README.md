@@ -1,11 +1,5 @@
 # README
 
-The front-end: Destroying (deleting) articles
+created new private method for DRY
 
-The front-end: Layout links
-
-REST - Representational state transfer - mapping HTTP verbs (get, post, put/patch, delete) to CRUD actions
-
-resources provides REST-ful routes to Rails resources
-
-Add layout links
+and created partial for new and show page
